@@ -1,0 +1,3 @@
+[90mPOST /app/login [32m200 [90m1ms[0m
+[90mPOST /app/signup [32m200 [90m0ms[0m
+[90mPOST /app/login [32m200 [90m1ms[0m

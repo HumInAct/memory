@@ -1,0 +1,69 @@
+HIA Language Specifications
+===========================
+
+NODE
+====
+
+A Node is an object, that can be either a space object, an information or a time object (relation).
+-A space object is a concrete object that we can visualize or see in real life.
+-An information is a property of a certain space or time object
+-A time object is an abstract event happening in time
+
+The node is defined by its name, and time of creation (knowledge time).
+Name pattern can contain many information elements.
+A node object has parents and states.
+
+Question to ask: Is it a piece of information?
+----------------
+
+patterns
+--------
+NODE = SPACE_OBJECT|TIME_OBJECT
+
+SPACE_OBJECT = [ PARENT[ =STATE[ ,STATE ]* ]: ]* OBJECT[ =STATE[ ,STATE ]* ]
+
+-parent: represents the owner of the next element
+-object: is the main element we are defining
+-state: is a description of the object or parent
+
+TIME_OBJECT = ${relation:ID} [ :OBJECT[ =STATE[ ,STATE ]* ] ]
+
+-id: refers to the relation id to link to
+-object: refers to a specific object from a relation, instead of the whole relation
+
+How to read it: state object of state parent of state parent
+---------------
+
+Nodes are connected to each other using a Relation
+
+RELATION
+========
+A Relation can be between two or three Nodes
+- in the case of 2: one is the subject and one is the object
+- in the case of 3: one is the subject, one is the direct object and one is the indirect one
+
+The relation is defined by its name, time, duration and its 3 related nodes.
+A relation object has parents and states and a negation flag.
+
+Question to ask
+---------------
+(who?)this - do - (what?)that - (to|from what?)to|from that
+    I       give     money         to everyone
+    I       take     money         from everyone
+
+pattern
+-------
+RELATION = [ PARENT: ]* [!]ACTION[ =STATE[ ,STATE ]* ]
+PARENT = OWNER/ACTION | ${relation:ID}
+
+-!: for a negative action (not to do)
+-action: is the main element of the relation between nodes
+-state: can be a description of the action (hardly,happily) or the type of action (must,should)
+
+
+PROBLEMS
+========
+to whom (node)
+why (relation)
+when (time)
+where (node)

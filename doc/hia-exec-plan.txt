@@ -1,0 +1,15 @@
+Execution Plan for a request:
+
+Legend:
+X > Y > Z: X calls Y, then Y calls Z
+X > (Y,Z): X calls Y and Z
+
+starting points:
+/test: tests
+/public: production
+
+(/test, /public) > / > /config > /app > /node_modules
+
+/: 			server.js
+/config: 	(settings.js > /auth, db_memory.js, routes.js)
+/app:		app.js > (/dao, /factories, controller.js) > /services

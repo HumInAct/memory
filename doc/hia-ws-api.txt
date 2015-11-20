@@ -1,0 +1,22 @@
+WEBSERVICES API
+===============
+
+All API calls start with: /api/
+API calls are mainly for CRUD operations on relations only, other data is managed on back-end.
+
+URLS
+----
+GET:/api/relations - returns list of all relations owned by the actal user
+GET:/api/relations/:id - returns the user relation of id
+
+POST:/api/relations - creates a new relation for the user and returns that new relation
+	input object: {text}
+	output object: {id, text, relation, answer}
+
+DELETE:/api/relation - deletes all relations from user
+DELETE:/api/relations/:id - deletes relation of id (:id) from user relations
+
+RULES
+-----
+- all returned data is in JSON format
+- data processing is done on front-end temporary session cache for STRANGER user, and directly on database for others.

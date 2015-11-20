@@ -1,0 +1,36 @@
+USERS ROLES
+===========
+
+Users are grouped into 3 types of roles, and one for myself;
+I, as a Creator of the HUMINACT application, have exceptionally two roles to manage HUMINACT (Creator and Boss).
+
+
+1 - Strangers
+-------------
+
+A Stranger is an anonyme user, visiting the application for the first time, or not yet registered.
+He doesn't have the permissions to save its relations data to the database or change the behaviour of its HIA instance.
+He can only give text to HIA to parse and stock in a temporary cache which is cleared at the end of his browser session.
+
+
+2 - Friends
+-----------
+
+A Friend is a registered user on the HUMINACT website with his credentials: username, password and email.
+All of his other informations are collected from his told information to HIA and saved to database.
+A Friend can be remembered forever by HIA, and can have access to his data whenever he is connected to HIA from wherever.
+He can only access data given by himself only, and some public data from other users if they wanted to share.
+
+
+3 - Boss
+--------
+
+A Boss is an administrator of the application.
+He has full access and all permissions to manage HIA memory and behaviour to make it better.
+
+
+4 - Creator
+-----------
+
+A Creator is the one who created the application.
+There can't be more than 1 Creator for the application.

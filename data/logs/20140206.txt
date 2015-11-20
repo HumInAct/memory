@@ -1,0 +1,18 @@
+[90mGET /js/lib/jquery-1.10.2.min.map [36m304 [90m4ms[0m
+[90mGET /app/init [32m200 [90m3ms - 73b[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m44ms - 2.6kb[0m
+[90mGET /app/init [32m200 [90m12ms - 78b[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [36m304 [90m2ms[0m
+[90mGET /app/init [36m304 [90m1ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m16ms - 2.61kb[0m
+[90mGET /app/init [36m304 [90m1ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m22ms - 2.65kb[0m
+[90mGET /app/init [36m304 [90m1ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m2ms - 2.69kb[0m
+[90mGET /app/init [36m304 [90m1ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m38ms - 2.71kb[0m
+[90mGET /app/init [36m304 [90m0ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m18ms - 2.77kb[0m
+[90mGET /app/init [36m304 [90m0ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [32m200 [90m2ms - 2.62kb[0m
+[90mGET /app/init [36m304 [90m1ms[0m

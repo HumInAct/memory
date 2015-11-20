@@ -1,0 +1,59 @@
+EXAMPLES
+========
+
+* I am 23 years old												$user:age --(be)-> years:23=old
+(23 of years)
+
+* I bought a watch												$user --(buy)-> watch
+
+* I like the color of your beautiful eyes						$user --(like)-> $hia:eye=state:color
+
+* He gave me a present	 										$other --(give)-> present ---> $user (we can say "He gave TO me")
+
+* You make me sick												$hia --(make)-> ${relation:+1}
+																$user --(be)-> =sick <--- ${relation:-1}
+	(You make that I am sick)
+																$user --($hia/make:be)-> =sick
+
+* He pushed me to say bad words									$other --(push)-> $user ---> ${relation:+1}
+																$user --(say)-> word=bad
+
+* I Like the watch you gave me									$user --(like)-> ${relation:+1}:watch  (the watch [that] you)
+																$hia --(give)-> watch ---> $user
+
+* I don't like the way he looks at me 							$other --($user/!like:look at)-> $user  (the way = that)
+
+* I guess this is the best solution for you						${relation:-1} --($user/guess:be)-> solution=best ---> $hia  (I guess [that])
+
+* I love when people work hard	 								person --($user/love:work=hard)
+
+* I take money from people										$user --(take)-> money <--- person
+* People give me money											person --(give)-> money ---> $user
+
+* I think that my father said to close the doors				$unknown --($user/think : $user:father/say : close)-> door
+
+																$user --(think)-> ${relation:+1}
+																$user:father --(say)-> ${relation:+1} <--- ${relation:-1}
+																$unknown --(close)-> door <-- ${relation:-1}
+
+* I think that my father said to me to close the door 			$user --($user/think : $user:father/say : close)-> door
+																
+																$user --(think)-> ${relation:+1}
+																$user:father --(say)-> ${relation:+1} ---> $user <--- ${relation:-1}
+
+* I think that he said we must not stay here					$usergroup --($user/think : $other/say : !stay=must)-> $place
+* I guess he told my father that i'm coming						$other --($user/guess : tell)-> ${relation:+1} ---> $user:father
+																$user --($user/guess : ${relation:-1} : come)
+
+* I play videogames to relax									$user --(play)-> videogame ---> ${relation:+1}
+																$user --(relax) <--- ${relation:-1}
+
+* I want money to give it to the people in need					$user --(want)-> money ---> ${relation:+1}  (reason)
+																$user --(give)-> $other ---> person=in need <--- ${relation:-1}  (cause)
+
+* That makes me want to party									$user --($user/want:party) <--- ${relation:-1} (consequence/result)
+																
+																${relation:-1} --(make)-> ${relation:+1}
+																$user --(want)->
+
+* That makes people think about their lives						people --(think)-> people:life <--- ${relation:-1}

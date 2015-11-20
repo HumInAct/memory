@@ -1,0 +1,45 @@
+GENERAL RULES
+=============
+- all elements starting with a '$' are references to be parsed and replaced with correct value
+- $NAME is a reference to a node owner (person), can contain values:
+	user (I,me), usergroup (we,us), hia(you), other (he,she,him,it), othergroup (they, them), unknown
+- ${TYPE:ID} is a reference to a database object:
+	TYPE is either 'node' or 'relation', ID can contain the object ID or a relative value of -1(past) or +1(future)
+
+
+NODE RULES
+==========
+- a node parent can be either a reference or an object
+- a node never contains an action! use a relation reference instead if must
+
+
+RELATION RULES
+==============
+
+node A
+------
+- node A can be a node or relation reference
+
+action
+------
+- a free action is one that happened for sure
+- a child action is one that is unsure (thought,guess), didn't happen yet (want,will,should) or just an opinion (like,love)
+
+node B
+------
+- node B never contains a relation reference! instead
+
+node C
+------
+- node C can be a node or a relation reference
+- node C is related to the action, and not the node A or B only
+- relation using a node C must have another attribute for node C way of relation (to '>' or from '<' action)
+- if node C is a space object, it's defining an indirect object (to|for a person)
+- if node C is a time object, it's defining a reason or cause of the action (asked by why?)
+
+- action can contain at least node A and an action, node B and C are not required
+- a relation can have a node C with no node B
+- the negation of an action can be preceded by an exclamation point '!' (!action)
+- an action that didn't happen (guess, thought, probability, opinion, idea) must be preceded by the action parent(s) ($user/like:)
+- an action parent relation must contain only node A and action, a reference to another relation is created if not
+- if a relation Y is the node B of a relation X, then relation X is the action parent of the relation Y

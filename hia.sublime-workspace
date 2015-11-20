@@ -1,0 +1,781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"ng-a",
+				"ng-app"
+			],
+			[
+				"ng",
+				"ng-app"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"src",
+				"dns.resolveSrv(name, callback);"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"boder-bo",
+				"border-bottom-width"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"margn",
+				"margin-left"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fade",
+				"fadeto	.fadeTo()"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"key",
+				"keypress	keypress"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"st",
+				"font-style"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"test",
+				"testScript"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"ou",
+				"out"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			],
+			[
+				"slid",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ma",
+				"mainHeader"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"hed",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/dev/js/app.js",
+			"settings":
+			{
+				"buffer_size": 972,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/settings.js",
+			"settings":
+			{
+				"buffer_size": 3801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 3636,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/nodejs.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"help",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/HIA project/nodejs",
+		"/D/Projects/HIA project/nodejs/app",
+		"/D/Projects/HIA project/nodejs/public",
+		"/D/Projects/HIA project/nodejs/public/dev",
+		"/D/Projects/HIA project/nodejs/public/dev/js",
+		"/D/Projects/HIA project/nodejs/test"
+	],
+	"file_history":
+	[
+		"/D/cds/applications/Sublime Text/Data/Packages/User/nodejs.sublime-build",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/css/style.css",
+		"/D/cds/workspaces/nodejs/hia-dev/server.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/events.js",
+		"/D/cds/workspaces/nodejs/hia-dev/app/app.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/properties.js",
+		"/D/cds/workspaces/nodejs/hia-dev/views/index.html",
+		"/D/cds/workspaces/nodejs/hia-dev/config/routes.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/auth/routes.js",
+		"/D/cds/workspaces/nodejs/hia-dev/views/menubar.html",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/properties.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/settings.js",
+		"/D/cds/workspaces/nodejs/hia-dev/app/controller.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/auth/database.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/database.js",
+		"/D/cds/workspaces/nodejs/hia-dev/views/relations.html",
+		"/D/cds/workspaces/nodejs/hia-dev/app/models/dao_relation.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/auth/account.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/css/opentip.css",
+		"/D/cds/workspaces/nodejs/hia-dev/app/dao/dao_relation.js",
+		"/D/cds/workspaces/nodejs/hia-dev/app/dao/dao_session.js",
+		"/D/cds/workspaces/nodejs/hia-dev/app/factories/factory_model.js",
+		"/D/cds/workspaces/nodejs/hia-dev/app/models/model_relation.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/app.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/prod/js/app.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/prod/js/main.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/prod/js/functions.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/prod/js/properties.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/prod/js/events.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/auth/passport.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/auth/settings.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/functions.js",
+		"/D/cds/workspaces/nodejs/hia-dev/views/signup.html",
+		"/D/cds/workspaces/nodejs/hia-dev/views/login.html",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/css/menu.css",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/init.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/main.js",
+		"/D/cds/workspaces/nodejs/hia-dev/doc/minify.txt",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/js/message.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/dev/index.html",
+		"/D/cds/workspaces/nodejs/hia-dev/public/index.html",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/main.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/css/menu.css",
+		"/D/cds/workspaces/nodejs/hia-dev/public/css/style.css",
+		"/D/cds/workspaces/nodejs/hia-dev/public/css/jquery.msg.css",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/events.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/properties.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/app.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/init.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/message.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/config/properties.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/effects.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/actions.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/init.jquery.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/config/selectors.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/events.jquery.js",
+		"/D/cds/workspaces/nodejs/hia-dev/data/knowledge/big.json",
+		"/D/cds/workspaces/nodejs/hia-dev/doc/hia-exec-plan.txt",
+		"/D/cds/workspaces/nodejs/hia-dev/app/dao/dao_db_relation.js",
+		"/D/cds/workspaces/nodejs/hia-dev/app/dao/dao_db_node.js",
+		"/D/cds/workspaces/nodejs/hia-dev/config/error.js",
+		"/D/cds/workspaces/nodejs/hia-dev/test/express.test.js",
+		"/D/cds/workspaces/nodejs/hia-dev/test/normal-cases.test.js",
+		"/D/cds/workspaces/nodejs/hia-dev/test/data-cases.test.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/routes.jquery.js",
+		"/D/cds/workspaces/nodejs/hia-dev/test/use-cases.test.js",
+		"/D/cds/workspaces/nodejs/hia-dev/views/error.html",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/directives.angular.js",
+		"/D/cds/workspaces/nodejs/hia-dev/public/js/services.angular.js",
+		"/D/cds/workspaces/nodejs/hia-dev/hia.sublime-project",
+		"/D/Projects/Programmation/HIA project/nodejs/public/js/core.angular.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/js/controllers.angular.js",
+		"/D/Projects/Programmation/HIA project/nodejs/config/routes.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/js/events.jquery.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/js/hia.opentip.jquery.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/js/analytics.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/js/services/relations.service.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/controllers/controller.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/controllers/controller_models.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/db/db-mongo.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_morpher.js",
+		"/D/Projects/Programmation/HIA project/nodejs/db/db-postgres.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/dao/dao_log.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/index.html",
+		"/D/Projects/Programmation/HIA project/nodejs/doc/hia-user-roles.txt",
+		"/D/Projects/Programmation/HIA project/nodejs/app/controlers/controler.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/controlers/controler_models.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_syn-finder.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_tokenizer.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_hia-parser.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_classifier.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_chunker.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_analyzer.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/factories/factory_model.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/factories/factory_data.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/facades/facade_data.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/facades/facade_model.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/services/service_postagger.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/dao/dao_relation.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/dao/dao_node.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/db/db-redis.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/db/db-postgres.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/controlers/controler_views.js",
+		"/D/Projects/Programmation/HIA project/nodejs/app/controlers/controler_services.js",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/dao_node.js",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/dao_relation.js",
+		"/D/Projects/Programmation/HIA project/nodejs/temp/hia-examples.txt",
+		"/D/Projects/Programmation/HIA project/nodejs/public/css/style.css",
+		"/D/Projects/Programmation/HIA project/nodejs/models/model_relation.js",
+		"/D/Projects/Programmation/HIA project/nodejs/controlers/controler.js",
+		"/D/Projects/Programmation/HIA project/nodejs/facades/facade_data.js",
+		"/D/Projects/Programmation/HIA project/nodejs/public/lib/jquery.blockUI.js",
+		"/D/Projects/Programmation/HIA project/nodejs/temp/hia-specs.txt",
+		"/D/Projects/Programmation/HIA project/nodejs/temp/hia-rules.txt",
+		"/D/Projects/Programmation/HIA project/nodejs/db/sql/db_schema.sql",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/sql/table_relation.sql",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/sql/table_node.sql",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/db-postgres.js",
+		"/D/Projects/Programmation/HIA project/nodejs/services/service_chunk-parser.js",
+		"/D/Projects/Programmation/HIA project/nodejs/services/service_postagger.js",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/dao_log.js",
+		"/D/Projects/Programmation/HIA project/nodejs/dao/db-mongo.js",
+		"/D/Projects/Programmation/HIA project/nodejs/services/service_chunker.js",
+		"/D/Projects/Programmation/HIA project/nodejs/services/service_classifier.js",
+		"/D/Projects/Programmation/HIA project/nodejs/node_modules/pos/test.js",
+		"/D/Projects/Programmation/HIA project/nodejs/node_modules/pos/POSTagger.js",
+		"/D/Projects/Programmation/HIA project/nodejs/test/use-cases.js",
+		"/D/Projects/Programmation/HIA project/nodejs/services/service_syn-finder.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FriendDAO",
+			"css",
+			"shark",
+			"were",
+			"dragons",
+			"dragon",
+			"plays",
+			"play",
+			"work",
+			"works",
+			"work",
+			"jews",
+			"jew",
+			"twenty",
+			"nineteen",
+			"eighteen",
+			"seventeen",
+			"sixteen",
+			"meaning",
+			"teens",
+			"compromise",
+			"seventeen",
+			"sixteen",
+			"fifteen",
+			"fourteen",
+			"arm",
+			"are",
+			"fourteen",
+			"twelve",
+			"thirteen",
+			"twelve",
+			"eleven",
+			"study",
+			"works",
+			"work",
+			"atlantic",
+			"pacific",
+			"mom",
+			"a ",
+			"an ",
+			"ie",
+			"ies",
+			"y",
+			"*/\n",
+			"is",
+			"are",
+			"that",
+			"Standardization",
+			"that",
+			"exports",
+			"ing",
+			"now",
+			"not",
+			"mine",
+			"nothing",
+			"back",
+			"weak",
+			"...",
+			"something",
+			"thing",
+			"'s",
+			"fred",
+			"ahmed",
+			"genious",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Account"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/dev/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								956,
+								969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/settings.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "hia.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

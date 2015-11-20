@@ -1,0 +1,9 @@
+<span>{% for relation in relations -%}
+	{% if loop.first %}<a href="#" title="forget" class="forget-last" id="{{relation.id}}/{{relations.length}}">x</a>  {% endif -%}
+
+	{% if relation.nodeA %}<b class="editable" contenteditable>{{relation.nodeA.name|escape}}</b> --{% endif -%}
+	{% if relation.name !== 'be' %}( <i class="editable" contenteditable> {{relation.name|lower|escape}} </i> ){% endif -%}
+	{% if relation.nodeB %}-> <b class="editable" contenteditable>{{relation.nodeB.name|escape}}</b>{% endif -%}
+	
+	{% if ! loop.last %}<br/>{% endif -%}
+{% endfor %}</span>

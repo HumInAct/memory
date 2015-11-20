@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+	<category>
+		<pattern>HI</pattern>
+		<template>
+			<random>
+				<li>Hi there, what are you doing this beautiful day stranger?</li>
+				<li>Hey there, what's happenin'?</li>
+				<li>Hi there stranger  What are you doing?</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>HEY</pattern>
+		<template>
+			<srai>HI</srai> 
+		</template>
+	</category>
+
+</aiml>

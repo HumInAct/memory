@@ -1,0 +1,27 @@
+[90mGET / [32m200 [90m377ms - 2.88kb[0m
+[90mGET /css/style.css [32m200 [90m23ms - 3.41kb[0m
+[90mGET /css/menu.css [32m200 [90m17ms - 917b[0m
+[90mGET /js/analytics.js [32m200 [90m4ms - 452b[0m
+[90mGET /css/jquery.msg.css [32m200 [90m22ms - 1.09kb[0m
+[90mGET /js/lib/require.js [32m200 [90m22ms - 14.79kb[0m
+[90mGET /css/opentip.css [32m200 [90m35ms - 9.33kb[0m
+[90mGET /img/logo.png [32m200 [90m9ms - 7.65kb[0m
+[90mGET /img/bg.png [32m200 [90m20ms - 104.48kb[0m
+[90mGET /js/main.js [32m200 [90m2ms - 822b[0m
+[90mGET /js/app.js [32m200 [90m2ms - 769b[0m
+[90mGET /js/init.js [32m200 [90m3ms - 1.97kb[0m
+[90mGET /js/events.js [32m200 [90m2ms - 2.8kb[0m
+[90mGET /js/effects.js [32m200 [90m7ms - 457b[0m
+[90mGET /js/config/urls.js [32m200 [90m6ms - 361b[0m
+[90mGET /js/config/selectors.js [32m200 [90m6ms - 924b[0m
+[90mGET /js/actions.js [32m200 [90m4ms - 607b[0m
+[90mGET /js/lib/jquery-1.10.2.min.js [32m200 [90m10ms - 90.93kb[0m
+[90mGET /js/lib/opentip-jquery-excanvas.min.js [32m200 [90m12ms - 43.99kb[0m
+[90mGET /js/lib/jquery.center.min.js [32m200 [90m12ms - 1.22kb[0m
+[90mGET /js/lib/jquery.animate-colors.js [32m200 [90m23ms - 5.03kb[0m
+[90mGET /js/lib/jquery.msg.min.js [32m200 [90m10ms - 2.01kb[0m
+[90mGET /app/init [32m200 [90m3ms - 78b[0m
+[90mGET /img/logo.png [36m304 [90m19ms[0m
+[90mGET /img/blank.gif [32m200 [90m40ms - 43b[0m
+[90mPOST /api/relations [32m200 [90m53ms - 290b[0m
+[90mGET /api/relations [32m200 [90m8ms - 50b[0m

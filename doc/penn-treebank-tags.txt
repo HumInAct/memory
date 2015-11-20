@@ -1,0 +1,87 @@
+http://bulba.sdsu.edu/jeanette/thesis/PennTags.html
+---------------------------------------------------------------
+
+Bracket Labels
+
+
+Clause Level
+
+. S - simple declarative clause, i.e. one that is not introduced by a (possible empty) subordinating conjunction or a wh-word and that does not exhibit subject-verb inversion.
+. SBAR - Clause introduced by a (possibly empty) subordinating conjunction.
+. SBARQ - Direct question introduced by a wh-word or a wh-phrase. Indirect questions and relative clauses should be bracketed as SBAR, not SBARQ.
+. SINV - Inverted declarative sentence, i.e. one in which the subject follows the tensed verb or modal.
+. SQ - Inverted yes/no question, or main clause of a wh-question, following the wh-phrase in SBARQ.
+
+
+Phrase Level
+
+. ADJP - Adjective Phrase.
+. ADVP - Adverb Phrase.
+. CONJP - Conjunction Phrase.
+. FRAG - Fragment.
+. INTJ - Interjection. Corresponds approximately to the part-of-speech tag UH.
+. LST - List marker. Includes surrounding punctuation.
+. NAC - Not a Constituent; used to show the scope of certain prenominal modifiers within an NP.
+. NP - Noun Phrase. 
+. NX - Used within certain complex NPs to mark the head of the NP. Corresponds very roughly to N-bar level but used quite differently.
+. PP - Prepositional Phrase.
+. PRN - Parenthetical. 
+. PRT - Particle. Category for words that should be tagged RP. 
+. QP - Quantifier Phrase (i.e. complex measure/amount phrase); used within NP.
+. RRC - Reduced Relative Clause. 
+. UCP - Unlike Coordinated Phrase. 
+. VP - Verb Phrase. 
+. WHADJP - Wh-adjective Phrase. Adjectival phrase containing a wh-adverb, as in how hot.
+. WHAVP - Wh-adverb Phrase. Introduces a clause with an NP gap. May be null (containing the 0 complementizer) or lexical, containing a wh-adverb such as how or why.
+. WHNP - Wh-noun Phrase. Introduces a clause with an NP gap. May be null (containing the 0 complementizer) or lexical, containing some wh-word, e.g. who, which book, whose daughter, none of which, or how many leopards.
+. WHPP - Wh-prepositional Phrase. Prepositional phrase containing a wh-noun phrase (such as of which or by whose authority) that either introduces a PP gap or is contained by a WHNP.
+. X - Unknown, uncertain, or unbracketable. X is often used for bracketing typos and in bracketing the...the-constructions.
+
+
+Word level
+
+CC Coord Conjuncn           and,but,or,because
+CD Cardinal number          one,two,2,34
+DT Determiner               the,some,this,a
+EX Existential there        there
+FW Foreign Word             mon dieu
+IN Preposition              of,in,by,for,on,over,under,to,with,like,as,up,that
+JJ Adjective                big
+JJR Adj., comparative       bigger
+JJS Adj., superlative       biggest
+LS List item marker         1,One
+MD Modal                    can,should,will,could
+NN Noun, sing. or mass      dog
+NNP Proper noun, sing.      Edinburgh
+NNPS Proper noun, plural    Smiths
+NNS Noun, plural            dogs
+POS Possessive ending       's
+PDT Predeterminer           all, both
+PPP$ Possessive pronoun     my,mine
+PRP Personal pronoun        I,you,she,me
+RB Adverb                   quickly,very,so,down,not,now
+RBR Adverb, comparative     faster
+RBS Adverb, superlative     fastest
+RP Particle                 up,off
+SYM Symbol                  +,%,&
+TO	                    	to
+UH Interjection             oh, oops
+URL url                     http://www.google.com/
+VB verb, base form          eat
+VBD verb, past tense        ate
+VBG verb, gerund            eating
+VBN verb, past part         eaten
+VBP Verb, present           eat
+VBZ Verb, present, 3rd      eats
+WDT Wh-determiner           which,that
+WP Wh pronoun               who,what
+WP$ Possessive-Wh           whose
+WRB Wh-adverb               how,where
+, Comma                     ,
+. Sent-final punct          . ! ?
+: Mid-sent punct.           : ; ,
+$ Dollar sign               $
+# Pound sign                #
+" quote                     ",'
+( Left paren                (
+) Right paren               )

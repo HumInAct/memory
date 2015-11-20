@@ -1,0 +1,85 @@
+/* main menu styles */
+.menu {
+    top: 0;
+    position: fixed;
+    background-color:#555;
+    text-align: left;
+    width:100%;
+}
+.menu > span {
+    display:inline-block;
+    margin:0 auto;
+}
+
+.menu > #left {
+    margin-left: 10px;
+}
+.menu > #right {
+    margin-right: 0;
+    position:absolute;
+    right:0;
+}
+
+#nav {
+    display:inline;
+    text-align:left;
+    position:relative;
+    list-style-type:none;
+}
+#nav > li {
+    float:left;
+    padding:0;
+    position:relative;
+}
+#nav > li > a {
+    border:0px;
+    color:#DDD;
+    display:block;
+    font-size:90%;
+    padding:3px 10px;
+    position:relative;
+    text-decoration:none;
+    transition: background-color 500ms;
+    -moz-transition: background-color 500ms;
+    -webkit-transition: background-color 500ms;
+    -o-transition: background-color 500ms;
+    -ms-transition: background-color 500ms;
+}
+
+#left > #nav > li > a:hover {
+    color:#FFF;
+    background-color:#0CF;
+}
+#right > #nav > li > a:hover {
+    color:#FFF;
+    background-color:#F30;
+}
+
+
+/*for mobile devices*/
+@media (max-width: 520px) {
+    .menu {
+        position: relative;
+        text-align: center;
+        width:100%;
+    }
+    .menu > span {
+        display: inline-block;
+    }
+
+    .menu > #left {
+        margin: 0 auto;
+    }
+    .menu > #right {
+        margin: 0 auto;
+        position: inherit;
+    }
+
+    #nav {
+        text-align: center;
+    }
+    #nav > li {
+        float: none;
+        padding: 0px;
+    }
+}

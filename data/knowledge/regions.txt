@@ -1,0 +1,7 @@
+America,American,North America,Central America,Caribbean,South America,
+Europe,European,
+Middle East and North Africa,MENA,Arab,
+Africa,African,Black,Afro
+Asia,Asian,Yellow,
+Oceania,Australia,Australian,
+Antarctica,Antarctican,

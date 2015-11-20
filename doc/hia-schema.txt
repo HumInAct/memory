@@ -1,0 +1,34 @@
+DATA SCHEMA
+===========
+
+Database type: NoSQL - Document oriented
+Database: MongoDB
+Database node client: Mongoose
+
+Friend
+------
+
+A friend is a registered user.
+A user account is identified by its id, username and email.
+User information is collected from its input to the properties.
+Every user has a set of Nodes and Relations composing its own collection.
+A user account is connected to the user's $user node information.
+
+
+Node
+----
+
+A node is identified by its name and properties.
+Node name is unique, there must not be 2 or more nodes with the same name, however there can be nodes containing the same node name at beginning.
+Every node can have many child nodes.
+A node cannot have more than one parent node.
+A node name like ($user:father:name) has one parent node ($user:father) which has one parent ($user).
+From a Node's name, we can extract the parent node ($user:father where parent->$user).
+
+EXPS:
+My father is John - $user:father ---> John
+My father's car is a Mercedes - $user:father:car ---> Mercedes
+
+
+Relation
+--------

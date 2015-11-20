@@ -1,0 +1,103 @@
+[90mGET / [32m200 [90m312ms - 2.88kb[0m
+[90mGET /css/style.css [36m304 [90m40ms[0m
+[90mGET /css/menu.css [36m304 [90m22ms[0m
+[90mGET /css/jquery.msg.css [36m304 [90m27ms[0m
+[90mGET /css/opentip.css [36m304 [90m22ms[0m
+[90mGET /js/analytics.js [36m304 [90m2ms[0m
+[90mGET /js/lib/require.js [36m304 [90m4ms[0m
+[90mGET /img/logo.png [36m304 [90m23ms[0m
+[90mGET /js/main.js [36m304 [90m1ms[0m
+[90mGET /js/app.js [32m200 [90m5ms - 703b[0m
+[90mGET /js/effects.js [36m304 [90m3ms[0m
+[90mGET /js/events.js [36m304 [90m2ms[0m
+[90mGET /js/init.js [32m200 [90m46ms - 1.97kb[0m
+[90mGET /js/config/selectors.js [36m304 [90m2ms[0m
+[90mGET /js/actions.js [32m200 [90m8ms - 607b[0m
+[90mGET /js/config/urls.js [36m304 [90m2ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.js [36m304 [90m2ms[0m
+[90mGET /js/lib/jquery.animate-colors.js [36m304 [90m7ms[0m
+[90mGET /js/lib/jquery.center.min.js [36m304 [90m5ms[0m
+[90mGET /js/lib/opentip-jquery-excanvas.min.js [36m304 [90m3ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [36m304 [90m6ms[0m
+[90mGET /js/lib/jquery.msg.min.js [36m304 [90m1ms[0m
+[90mGET /app/init [32m200 [90m3ms - 78b[0m
+[90mGET /img/blank.gif [36m304 [90m4ms[0m
+[90mGET /img/logo.png [36m304 [90m2ms[0m
+[90mGET /partials/about [32m200 [90m55ms - 295b[0m
+[90mGET /img/logo.png [36m304 [90m4ms[0m
+[90mGET /img/blank.gif [36m304 [90m2ms[0m
+[90mGET /partials/about [36m304 [90m24ms[0m
+[90mGET /img/logo.png [36m304 [90m3ms[0m
+[90mGET /img/blank.gif [36m304 [90m1ms[0m
+[90mGET /partials/about [36m304 [90m6ms[0m
+[90mGET /img/blank.gif [36m304 [90m24ms[0m
+[90mGET /img/logo.png [36m304 [90m11ms[0m
+[90mGET /partials/about [36m304 [90m49ms[0m
+[90mGET /img/blank.gif [36m304 [90m4ms[0m
+[90mGET /img/logo.png [36m304 [90m2ms[0m
+[90mGET /partials/about [36m304 [90m6ms[0m
+[90mGET /img/blank.gif [36m304 [90m1ms[0m
+[90mGET /img/logo.png [36m304 [90m3ms[0m
+[90mGET /partials/about [36m304 [90m9ms[0m
+[90mGET /img/blank.gif [36m304 [90m10ms[0m
+[90mGET /img/logo.png [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m5ms[0m
+[90mGET /css/style.css [36m304 [90m44ms[0m
+[90mGET /css/opentip.css [36m304 [90m3ms[0m
+[90mGET /css/menu.css [36m304 [90m35ms[0m
+[90mGET /css/jquery.msg.css [36m304 [90m33ms[0m
+[90mGET /js/analytics.js [36m304 [90m31ms[0m
+[90mGET /js/lib/require.js [36m304 [90m30ms[0m
+[90mGET /img/logo.png [36m304 [90m13ms[0m
+[90mGET /js/main.js [36m304 [90m28ms[0m
+[90mGET /js/app.js [36m304 [90m2ms[0m
+[90mGET /js/init.js [36m304 [90m1ms[0m
+[90mGET /js/events.js [36m304 [90m2ms[0m
+[90mGET /js/effects.js [36m304 [90m2ms[0m
+[90mGET /js/config/selectors.js [36m304 [90m8ms[0m
+[90mGET /js/config/urls.js [36m304 [90m7ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.js [36m304 [90m24ms[0m
+[90mGET /js/actions.js [36m304 [90m2ms[0m
+[90mGET /js/lib/opentip-jquery-excanvas.min.js [36m304 [90m4ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [36m304 [90m54ms[0m
+[90mGET /js/lib/jquery.center.min.js [36m304 [90m38ms[0m
+[90mGET /js/lib/jquery.animate-colors.js [36m304 [90m32ms[0m
+[90mGET /js/lib/jquery.msg.min.js [36m304 [90m2ms[0m
+[90mGET /app/init [32m200 [90m11ms - 100b[0m
+[90mGET /partials/signup [31m500 [90m36ms - 1.27kb[0m
+[90mGET /partials/login [31m500 [90m7ms - 1.27kb[0m
+[90mPOST /api/relations [32m200 [90m155ms - 103b[0m
+[90mPOST /api/relations [32m200 [90m16ms - 290b[0m
+[90mGET / [32m200 [90m32ms - 2.88kb[0m
+[90mOPTIONS / [32m200 [90m1ms - 3b[0m
+[90mGET /nice%20ports%2C/Tri%6Eity.txt%2ebak [32m200 [90m3ms - 2.88kb[0m
+[90mGET / [32m200 [90m156ms - 2.88kb[0m
+[90mOPTIONS / [32m200 [90m2ms - 3b[0m
+[90mGET /nice%20ports%2C/Tri%6Eity.txt%2ebak [32m200 [90m2ms - 2.88kb[0m
+[90mGET / [36m304 [90m49ms[0m
+[90mGET /css/style.css [36m304 [90m21ms[0m
+[90mGET /css/menu.css [36m304 [90m58ms[0m
+[90mGET /js/analytics.js [36m304 [90m82ms[0m
+[90mGET /js/lib/require.js [36m304 [90m82ms[0m
+[90mGET /css/opentip.css [36m304 [90m81ms[0m
+[90mGET /css/jquery.msg.css [36m304 [90m80ms[0m
+[90mGET /img/logo.png [36m304 [90m4ms[0m
+[90mGET /img/bg.png [36m304 [90m1ms[0m
+[90mGET /js/main.js [32m200 [90m29ms - 822b[0m
+[90mGET /js/app.js [32m200 [90m83ms - 769b[0m
+[90mGET /js/init.js [36m304 [90m2ms[0m
+[90mGET /js/effects.js [36m304 [90m164ms[0m
+[90mGET /js/events.js [36m304 [90m163ms[0m
+[90mGET /js/config/selectors.js [36m304 [90m1ms[0m
+[90mGET /js/config/urls.js [36m304 [90m1ms[0m
+[90mGET /js/actions.js [36m304 [90m1ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.js [36m304 [90m1ms[0m
+[90mGET /js/lib/opentip-jquery-excanvas.min.js [36m304 [90m40ms[0m
+[90mGET /js/lib/jquery-1.10.2.min.map [36m304 [90m44ms[0m
+[90mGET /js/lib/jquery.center.min.js [36m304 [90m49ms[0m
+[90mGET /js/lib/jquery.animate-colors.js [36m304 [90m32ms[0m
+[90mGET /js/lib/jquery.msg.min.js [36m304 [90m1ms[0m
+[90mGET /app/init [32m200 [90m3ms - 121b[0m
+[90mGET /partials/about [36m304 [90m331ms[0m
+[90mGET /img/blank.gif [36m304 [90m1ms[0m
+[90mGET /img/logo.png [36m304 [90m9ms[0m

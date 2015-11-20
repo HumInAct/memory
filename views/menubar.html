@@ -1,0 +1,16 @@
+<div class="menu">
+	<span id="left">
+		<ul id="nav">
+			{% if !authenticated || authenticated === false %}<li><a href="#" id="about_link">About</a></li>
+			{%- else %}<li><a href="#" id="memory_link">Memory</a></li>
+			{%- endif %}
+		</ul>
+	</span>
+	<span id="right">
+		<ul id="nav">
+			{% if !authenticated || authenticated === false %}<li><a href="#" id="connect_link">Connect</a></li>
+			{%- else %}<li><a href="/app/logout" id="disconnect_link">Disconnect</a></li>
+			{%- endif %}
+		</ul>
+	</span>
+</div>

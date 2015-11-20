@@ -1,0 +1,4 @@
+uglifyjs public/dev/js/lib/jquery-1.10.2.min.js public/dev/js/lib/jquery.animate-colors.js public/dev/js/lib/jquery.center.min.js public/dev/js/lib/jquery.md5.min.js public/dev/js/lib/jquery.msg.min.js public/dev/js/lib/opentip-jquery-excanvas.min.js public/dev/js/lib/require.js public/dev/js/properties.js public/dev/js/message.js public/dev/js/events.js public/dev/js/init.js public/dev/js/app.js public/dev/js/main.js -o public/prod/js/hia.min.js
+
+
+uglifycss public/dev/css/jquery.msg.css public/dev/css/opentip.css public/dev/css/menu.css public/dev/css/style.css > public/prod/css/hia.min.css

@@ -1,0 +1,11 @@
+<div>
+	<p>
+		Internal Server Error: <b>{{ message }}</b>
+		<br/>
+		{% if stack %}
+			<b>Stack:</b>
+			<br/>
+			<i>{{ stack }}</i>
+		{% endif %}
+	</p>
+</div>
